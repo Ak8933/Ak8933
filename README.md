@@ -57,7 +57,7 @@ Coursework: DBMS, Computer Networks, DSA, Operating Systems, etc.
 ## 📝 Coding Profiles
 
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/ak3007/)
-- [LeetCode](https://leetcode.com/ak3007/)
+- [LeetCode](https://leetcode.com/akarsh3006/)
 - [CodingNinjas](https://www.codingninjas.com/studio/profile/ak3007)
 - [CodeChef](https://www.codechef.com/users/rudra_07_07)
 
