@@ -64,7 +64,6 @@ Coursework: DBMS, Computer Networks, DSA, Operating Systems, etc.
 ## 📫 Contact Me
 
 - **Location:** Kanpur, Uttar Pradesh
-- **Phone:** +919598096759
 - **Email:** akarshkatiyarak123@gmail.com
 
 Feel free to reach out if you want to collaborate on a project, need help with coding problems, or just want to connect!
