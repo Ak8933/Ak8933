@@ -29,13 +29,12 @@ Welcome to my GitHub profile! I am a passionate software developer with a focus 
 ![IPFS](https://img.shields.io/badge/IPFS-4479A1?style=for-the-badge&logo=ipfs&logoColor=white)
 
 ## Coursework
-
-- ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-4CAF50?style=for-the-badge&logo=algolia&logoColor=white)
-- ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-00897B?style=for-the-badge&logo=linux&logoColor=white)
-- ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1565C0?style=for-the-badge&logo=ethernet&logoColor=white)
-- ![Database Management Systems](https://img.shields.io/badge/Database%20Management%20Systems-4DB6AC?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Compiler Design](https://img.shields.io/badge/Compiler%20Design-512DA8?style=for-the-badge&logo=codeforces&logoColor=white)
-- ![Web Development](https://img.shields.io/badge/Web%20Development-F57C00?style=for-the-badge&logo=html5&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-4CAF50?style=for-the-badge&logo=algolia&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-00897B?style=for-the-badge&logo=linux&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1565C0?style=for-the-badge&logo=ethernet&logoColor=white)
+![Database Management Systems](https://img.shields.io/badge/Database%20Management%20Systems-4DB6AC?style=for-the-badge&logo=mysql&logoColor=white)
+![Compiler Design](https://img.shields.io/badge/Compiler%20Design-512DA8?style=for-the-badge&logo=codeforces&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-F57C00?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ## 📚 Education
