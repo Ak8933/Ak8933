@@ -20,6 +20,35 @@ Welcome to my GitHub profile! I am a passionate software developer with a focus 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+
+
+### Developer Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+
+
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-4479A1?style=for-the-badge&logo=ipfs&logoColor=white)
+
+## Coursework
+
+- ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-4CAF50?style=for-the-badge&logo=algolia&logoColor=white)
+- ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-00897B?style=for-the-badge&logo=linux&logoColor=white)
+- ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1565C0?style=for-the-badge&logo=ethernet&logoColor=white)
+- ![Database Management Systems](https://img.shields.io/badge/Database%20Management%20Systems-4DB6AC?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Compiler Design](https://img.shields.io/badge/Compiler%20Design-512DA8?style=for-the-badge&logo=codeforces&logoColor=white)
+- ![Web Development](https://img.shields.io/badge/Web%20Development-F57C00?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ## 📚 Education
 
