@@ -59,9 +59,11 @@ Hosted the website on GitHub, ensuring easy accessibility and version control. I
 
 
   
-### [Face Recognition Based Attendance System](https://github.com/Ak8933/attendance_system/)
-- **Tech:** Python, OpenCV
-- **Description:** A console application for marking attendance using face recognition. Implements deep learning (CNN) with the OpenCV and face_recognition Python libraries.
+### [Shortest Remaining Time First - Scheduling Algorithm](https://github.com/Ak8933/attendance_system/)
+- **Tech:** C++ , Array Data Structure
+- **Description:** Implemented a preemptive CPU scheduling algorithm in C++ using arrays to manage process execution based on
+shortest remaining burst time. Implemented functions to calculate completion, turnaround, and waiting times for optimal process scheduling and
+performance analysis.
 
 ## 🏆 Achievements
 
