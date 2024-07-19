@@ -47,14 +47,15 @@ Coursework: DBMS, Computer Networks, DSA, Operating Systems, etc.
 ## 🌟 Projects
 
 
-### [Digital Notes Manager](https://ak8933.github.io/inotebook/)
+### [Digital Notes Manager](https://github.com/Ak8933/inotebook)
 - **Tech:** HTML, CSS, JS, React.js, MongoDB, JSON Web Tokens, Express, Node.js
 - **Description:** Developed a full-stack web application for securely and efficiently managing personal notes. Utilized React.js for the frontend and Node.js, Express, and MongoDB for the backend to ensure a robust and scalable architecture. Implemented JSON Web Tokens for authentication, ensuring user data privacy and security. Enabled essential CRUD functionalities allowing users to create, edit, delete, and organize their notes seamlessly. Designed a user-friendly interface that enhances usability and provides a smooth note-taking experience.
 
 
 ### [Portfolio Website](https://ak8933.github.io/portfolio.github.io/)
 - **Tech:** HTML, CSS, JavaScript, Email.js Library, GitHub
-- **Description:** A personal portfolio website to showcase my skills and projects. Includes interactive elements using Email.js for seamless communication.
+- **Description:** Crafted a personal portfolio website using fundamental web technologies such as HTML, CSS, and JavaScript.
+Hosted the website on GitHub, ensuring easy accessibility and version control. Integrated interactive elements using the Email.js library, enabling seamless communication with visitors. Designed an intuitive user interface to effectively showcase projects, skills, and contact information.
 
 
   
