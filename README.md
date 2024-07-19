@@ -67,10 +67,12 @@ performance analysis.
 
 ## 🏆 Achievements
 
-- **1st Rank** at Kimo's Edge'23 Competition.
+- **GATE** 2024 Qualified.
+- **Achieved** consistent top performance in weekly contests throughout the month, securing a place in the top
+200 of the April Monthly leaderboard on GeeksforGeeks Contests.
 - **979 Rank** in Contest 134 at GeeksforGeeks.
 - **95 Rank** in Contest 61 at Coding Ninjas.
-- **1000+ Problems Solved** on CodeChef, GeeksforGeeks, LeetCode, HackerRank (5★), Coding Ninjas (Expert Level).
+- **1200+ Problems Solved** on CodeChef, GeeksforGeeks, LeetCode, HackerRank (5★), Coding Ninjas (Expert Level).
 
 ## 📜 Certifications
 
