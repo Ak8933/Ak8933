@@ -68,8 +68,7 @@ performance analysis.
 ## 🏆 Achievements
 
 - **GATE** 2024 Qualified.
-- **Achieved** consistent top performance in weekly contests throughout the month, securing a place in the top
-200 of the April Monthly leaderboard on GeeksforGeeks Contests.
+- **Got Selected** for GFG SDE Internship phase-1.
 - **979 Rank** in Contest 134 at GeeksforGeeks.
 - **95 Rank** in Contest 61 at Coding Ninjas.
 - **1200+ Problems Solved** on CodeChef, GeeksforGeeks, LeetCode, HackerRank (5★), Coding Ninjas (Expert Level).
