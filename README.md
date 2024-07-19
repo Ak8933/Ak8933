@@ -46,14 +46,18 @@ Coursework: DBMS, Computer Networks, DSA, Operating Systems, etc.
 
 ## 🌟 Projects
 
+
+### [Digital Notes Manager](https://ak8933.github.io/inotebook/)
+- **Tech:** HTML, CSS, JS, React.js, MongoDB, JSON Web Tokens, Express, Node.js
+- **Description:** Developed a full-stack web application for securely and efficiently managing personal notes. Utilized React.js for the frontend and Node.js, Express, and MongoDB for the backend to ensure a robust and scalable architecture. Implemented JSON Web Tokens for authentication, ensuring user data privacy and security. Enabled essential CRUD functionalities allowing users to create, edit, delete, and organize their notes seamlessly. Designed a user-friendly interface that enhances usability and provides a smooth note-taking experience.
+
+
 ### [Portfolio Website](https://ak8933.github.io/portfolio.github.io/)
 - **Tech:** HTML, CSS, JavaScript, Email.js Library, GitHub
 - **Description:** A personal portfolio website to showcase my skills and projects. Includes interactive elements using Email.js for seamless communication.
 
-### [Chitchat](https://ak8933.github.io/chitchat/)
-- **Tech:** React, Firebase Authentication, Firebase Database, HTML, CSS, GitHub
-- **Description:** A real-time chat application with Firebase authentication and database for storing messages.
 
+  
 ### [Face Recognition Based Attendance System](https://github.com/Ak8933/attendance_system/)
 - **Tech:** Python, OpenCV
 - **Description:** A console application for marking attendance using face recognition. Implements deep learning (CNN) with the OpenCV and face_recognition Python libraries.
