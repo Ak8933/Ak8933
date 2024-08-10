@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a focus 
 
 **Bachelor of Technology (CSE)**  
 Institute of Engineering and Rural Technology, Allahabad, Uttar Pradesh  
-CGPA: 8.0/10  
+CGPA: 8.01/10  
 Coursework: DBMS, Computer Networks, DSA, Operating Systems, etc.
 
 ## 🌟 Projects
